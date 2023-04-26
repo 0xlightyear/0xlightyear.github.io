@@ -5,6 +5,16 @@
     <link>https://0xlightyear.github.io/categories/</link>
     <description>Recent content in Categories on 0xlightyear&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://0xlightyear.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Apr 2023 21:52:52 +1000</lastBuildDate><atom:link href="https://0xlightyear.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security</title>
+      <link>https://0xlightyear.github.io/categories/security/</link>
+      <pubDate>Wed, 26 Apr 2023 21:52:52 +1000</pubDate>
+      
+      <guid>https://0xlightyear.github.io/categories/security/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
