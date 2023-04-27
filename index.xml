@@ -15,7 +15,7 @@
       <guid>https://0xlightyear.github.io/posts/pwnable_kr_writeups/</guid>
       <description>About pwnable.kr If you are interested in pwn or binary exploitation challenges, pwnable.kr is a great platform to test your skills. Unlike traditional CTF games on ctftime, pwnable.kr does not have a time limit, allowing you to work on the challenges at your own pace.
 In this article, I will share my experience solving each challenge on pwnable.kr, as well as what I have learned along the way.
-fd - 1 pt //fd.</description>
+fd - 1 pt // fd.</description>
     </item>
     
     
